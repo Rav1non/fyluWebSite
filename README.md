@@ -1,4 +1,4 @@
 # FyluOs
-Fylu is an operating system based on the Linux kernel
+Fylu is an operating system based on the Linux kernel.\n
 In the near future I will design this site and start developing the OS
 ![Linux](lkc.jpg)
